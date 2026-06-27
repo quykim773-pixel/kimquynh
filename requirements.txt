@@ -1,0 +1,8 @@
+Flask
+aiohttp
+pycryptodome
+protobuf
+protobuf-decoder
+requests
+pytz
+urllib3
